@@ -23,14 +23,10 @@ AI-powered, privacy-aware edge monitoring system for real-time situational aware
 - Android Studio
 - Java
 - Material Components (Material You)
-- AI integration (ChatGPT)
+- FastAPI
 
 ---
 
 ## 🛠️ Setup
 1. Download the initial release.
 2. You're set to use SafeX
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
